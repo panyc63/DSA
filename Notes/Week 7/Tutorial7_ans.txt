@@ -1,0 +1,27 @@
+1)
+int sum(int arr[], int n){
+ if (n==0)//
+     return 0;
+else 
+      return array[n-1]+ sum(array,n-1);
+}
+
+2)
+The recursive function does not have a base case.
+As such, there will be infinite recursive call and the function will not terminate.
+
+3) 
+int sum(int n){
+   if (n==1)
+      return 1;
+   else
+      return n+sum(n-1);
+
+}
+
+4)
+Even though the precondition states that n is nonnegative, there is no actual code to keep a negative value for n from being used as the argument in the function.
+
+When n=3 , as 3 is not within the subrange of 0 to 2, the default will execute, thus attempting to evaluate f(1) and f(-1), which do not match with the base case.
+
+When n is any odd number, f(n)’s arguments will be n’s next two smaller odd integers due to recursive call of f(n-2) and f(n-4), which eventually will need to evaluate f(3).

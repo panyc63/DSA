@@ -1,0 +1,14 @@
+MRT
+
+Top up card
+Search for station
+View Station
+smaller scale
+justify ur choice
+
+
+
+
+Idea
+graph dsa
+lines use array based {line object}

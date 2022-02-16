@@ -1,0 +1,5 @@
+﻿  List.cpp
+  ConsoleApplication1.cpp
+D:\NP\Current Modules\DSA\Program\ForPractice\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,10): fatal error C1083: Cannot open include file: 'List.h': No such file or directory
+  Stack.cpp
+  Generating Code...

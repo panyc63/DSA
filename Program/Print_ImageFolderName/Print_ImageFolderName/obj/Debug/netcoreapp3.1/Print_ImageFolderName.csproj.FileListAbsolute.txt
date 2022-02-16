@@ -1,0 +1,13 @@
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\bin\Debug\netcoreapp3.1\Print_ImageFolderName.exe
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\bin\Debug\netcoreapp3.1\Print_ImageFolderName.deps.json
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\bin\Debug\netcoreapp3.1\Print_ImageFolderName.runtimeconfig.json
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\bin\Debug\netcoreapp3.1\Print_ImageFolderName.runtimeconfig.dev.json
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\bin\Debug\netcoreapp3.1\Print_ImageFolderName.dll
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\bin\Debug\netcoreapp3.1\Print_ImageFolderName.pdb
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.csprojAssemblyReference.cache
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.AssemblyInfoInputs.cache
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.AssemblyInfo.cs
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.csproj.CoreCompileInputs.cache
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.dll
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.pdb
+C:\Users\saber\source\repos\Print_ImageFolderName\Print_ImageFolderName\obj\Debug\netcoreapp3.1\Print_ImageFolderName.genruntimeconfig.cache

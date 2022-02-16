@@ -1,0 +1,12 @@
+﻿  Account.cpp
+  Banking.cpp
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(44,13): error C3861: 'withdraw': identifier not found
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(49,13): error C3861: 'deposit': identifier not found
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(55,13): error C3861: 'checkBal': identifier not found
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(60,13): error C3861: 'calInt': identifier not found
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(75,5): error C3861: 'checkBal': identifier not found
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(91,5): error C3861: 'checkBal': identifier not found
+D:\NP\DSA\Program\Week 1\Banking\Banking\Banking.cpp(112,5): error C3861: 'checkBal': identifier not found
+  CheckingAccount.cpp
+  SavingAccount.cpp
+  Generating Code...
